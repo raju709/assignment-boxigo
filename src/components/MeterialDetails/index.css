@@ -1,0 +1,28 @@
+.name-img-container {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: red;
+  font-family: 'Roboto';
+}
+.div-container {
+  display: flex;
+  flex-direction: column;
+}
+.drop-icon {
+  font-size: 50px;
+  margin-top: 10px;
+}
+.item-container {
+  display: flex;
+  flex-direction: row;
+}
+.bottom-div {
+  display: flex;
+  flex-direction: row;
+}
+.data-container {
+  display: flex;
+  flex-direction: row;
+}

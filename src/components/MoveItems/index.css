@@ -1,0 +1,77 @@
+/* Write your CSS code here. */
+.move-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  border-bottom: 2px solid orange;
+}
+.top-section {
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;
+}
+.sub-container {
+  margin-left: 15px;
+  align-items: space-around;
+  padding: 25px;
+}
+.estimateid-text {
+  color: orange;
+}
+.text {
+  color: grey;
+}
+.icons {
+  font-size: 55px;
+}
+.bottom-section {
+  display: flex;
+  justify-content: space-around;
+}
+.home {
+  display: flex;
+}
+.icon-color {
+  color: orange;
+  font-size: 30px;
+  margin-top: 25px;
+}
+.bottom-text {
+  font-size: 20px;
+}
+.btn-container {
+  padding: 10px;
+}
+.btn1 {
+  color: black;
+  border: 2px solid orange;
+  margin-right: 15px;
+  background-color: transparent;
+  height: 35px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn2 {
+  color: white;
+
+  margin-right: 15px;
+  background-color: orange;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+}
+.last-container {
+  display: flex;
+  margin-bottom: 15px;
+}
+.disclaimer {
+  color: black;
+  font-size: 15px;
+}
+.span {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}

@@ -1,0 +1,9 @@
+.category-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 20px;
+}
+.category-heading {
+  font-size: 20px;
+}
